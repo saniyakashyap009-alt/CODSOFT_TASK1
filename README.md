@@ -7,4 +7,4 @@ Task 2: Performed EDA (descriptive stats, outlier detection, business questions)
 Task 3: Created visualizations(bar,line,pie,histogram,scatter plots)
 
 Dataset: Seaborn's built-in "tips" dataset
-Tools: Python, Pandas, Matplotlib, Seaborn 
+Tools: Python, Pandas, Matplotlib, Seaborn
